@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "esnext",
+      "es2020"
+    ],
+    "outDir": "dist",
+    "module": "commonjs",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "target": "es6",
+    "declaration": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

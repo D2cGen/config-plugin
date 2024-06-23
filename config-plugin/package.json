@@ -1,0 +1,31 @@
+{
+  "name": "@d2c2d/config-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/babel__core": "^7.20.5",
+    "@types/node": "^20.14.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  },
+  "peerDependencies": {
+    "@babel/runtime": "^7.20.6"
+  },
+  "dependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/types": "^7.24.7"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
+}
