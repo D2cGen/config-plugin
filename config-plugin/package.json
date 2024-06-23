@@ -8,6 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
+  "homepage": "https://github.com/D2cGen/config-plugin",
   "keywords": [],
   "author": "",
   "license": "ISC",
